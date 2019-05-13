@@ -1,4 +1,6 @@
-# vuejsisrael
+# VueJS Israel Official Website repo
+
+⚠️ You can fork this, but please give the proper credits to the original designer ⚠️
 
 ## Project setup
 ```
