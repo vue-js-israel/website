@@ -21,7 +21,6 @@ export default {
 }
 </script>
 <style>
-@import url(https://fonts.googleapis.com/css?family=Dosis);
 body {
   --color-white: #ffffff;
   --color-green: #4dba87;

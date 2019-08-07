@@ -16,6 +16,10 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/png', href: 'https://res.cloudinary.com/mayashavin/image/upload/v1552841630/VueJS%20Israel/logo_square.png' },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css?family=Dosis'
+      }
     ]
   },
 
