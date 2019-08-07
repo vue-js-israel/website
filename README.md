@@ -1,6 +1,8 @@
-# vuejsil
+# VueJS Israel Official Website
 
-> My epic Nuxt.js project
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c000382-02a2-4d9d-b72c-d36b21d0b07f/deploy-status)](https://app.netlify.com/sites/vuejsisrael/deploys)
+
+> VueJS Israel Website build with NuxtJS and deployed in Netlify
 
 ## Build Setup
 
